@@ -2,7 +2,7 @@
 title: Title of the post
 taxonomy:
     category:
-        - bitcoin
+        - money
 ---
 
 ## My post content
