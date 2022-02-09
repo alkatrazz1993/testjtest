@@ -4,7 +4,8 @@ menu_order: 1
 taxonomy:
     category:
         - bitcoin
-        - bitcoin
+        subcategory:
+            - bitcoin
 ---
 
 ## My post content
