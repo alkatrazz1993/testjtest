@@ -3,7 +3,7 @@ title: ビットコインは最強のお金
 ---
 
 ---
-category: ビットコインは最強のお金
+category_name: ビットコインは最強のお金
 ---
 
 ## Pro 1 Installation
