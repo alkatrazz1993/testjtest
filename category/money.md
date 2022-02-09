@@ -1,11 +1,11 @@
 ---
-title: ビットコインは最強のお金
+title: Title of the post
+menu_order: 1
+taxonomy:
+    category:
+        - bitcoin
 ---
 
----
-category_name: ビットコインは最強のお金
----
+## My post content
 
-## Pro 1 Installation
-
-Link to [pro2](https://jtest.fulgur.ventures/category/bitcoin/foundation/)
+Lorem ip
