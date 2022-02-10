@@ -10,6 +10,6 @@ taxonomy:
 
 ## My post content for Core
 
-![Test adding image](/_images/test_add_image.PNG)
+![Test adding image](/_images/test-add-image.PNG)
 
 Lorem ipt by Core
