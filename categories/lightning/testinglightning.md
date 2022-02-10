@@ -10,4 +10,6 @@ taxonomy:
 
 ## My post content for Lightning
 
+![Test adding image](/_images/see.PNG)
+
 Lorem ipt by Lightning
