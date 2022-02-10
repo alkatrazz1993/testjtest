@@ -5,4 +5,4 @@ taxonomy:
         - how-to
 ---
 
-Note that how-to, welcome
+Note that how-to, welcome to how-to
