@@ -17,4 +17,4 @@ taxonomy:
     <source src="https://user-images.githubusercontent.com/99181793/153439483-0e432549-4d4b-49e6-bfda-305eeb11e83e.mp4" type="video/mp4">
 </video>
 
-Lorem ipt by Wallet video yy
+Lorem ipt by Wallet video uu
