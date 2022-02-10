@@ -12,4 +12,4 @@ taxonomy:
 
 ![Test adding image](/_images/test-add-image-node.PNG)
 
-Lorem ipt by Wallet
+Lorem ipt by Wallet ff
