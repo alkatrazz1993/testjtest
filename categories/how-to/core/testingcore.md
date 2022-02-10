@@ -10,6 +10,6 @@ taxonomy:
 
 ## My post content for Core
 
-![Test adding image](https://jtest.fulgur.ventures/wp-content/uploads/2022/02/test-add-image.png)
+![Test adding image](/_images/test-add-image.PNG)
 
 Lorem ipt by Core

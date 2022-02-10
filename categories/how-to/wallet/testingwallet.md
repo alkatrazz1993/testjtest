@@ -10,6 +10,6 @@ taxonomy:
 
 ## My post content for Wallet
 
-![Test adding image](https://jtest.fulgur.ventures/wp-content/uploads/2022/02/test-add-image-node.png)
+![Test adding image](/_images/test-add-image-node.PNG)
 
 Lorem ipt by Wallet

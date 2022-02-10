@@ -9,6 +9,6 @@ taxonomy:
 
 ## My post content for Node
 
-![Test adding image](https://jtest.fulgur.ventures/wp-content/uploads/2022/02/test-add-image-core.png)
+![Test adding image](/_images/test-add-image-core.PNG)
 
 Lorem ipt by Node
