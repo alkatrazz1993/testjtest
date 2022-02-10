@@ -1,6 +1,8 @@
 ---
 title: Insta new
 taxonomy:
+    category:
+        - money
     post_tag:
         - beginner
         - humanrights
