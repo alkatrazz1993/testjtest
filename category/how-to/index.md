@@ -2,7 +2,7 @@
 title: How-To
 taxonomy:
     category:
-        - how-to
+        - category
 ---
 
 Note that how-to, welcome to how-to
